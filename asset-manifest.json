@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/VoterIDDashboard/static/css/main.d7e09450.css",
-    "main.js": "/VoterIDDashboard/static/js/main.abc51ec0.js",
+    "main.js": "/VoterIDDashboard/static/js/main.d21fb15f.js",
     "static/js/787.d6a2376d.chunk.js": "/VoterIDDashboard/static/js/787.d6a2376d.chunk.js",
     "index.html": "/VoterIDDashboard/index.html",
     "main.d7e09450.css.map": "/VoterIDDashboard/static/css/main.d7e09450.css.map",
-    "main.abc51ec0.js.map": "/VoterIDDashboard/static/js/main.abc51ec0.js.map",
+    "main.d21fb15f.js.map": "/VoterIDDashboard/static/js/main.d21fb15f.js.map",
     "787.d6a2376d.chunk.js.map": "/VoterIDDashboard/static/js/787.d6a2376d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7e09450.css",
-    "static/js/main.abc51ec0.js"
+    "static/js/main.d21fb15f.js"
   ]
 }
